@@ -25,4 +25,5 @@ Wonder_Woman = media.Movie("Wonder Woman","It begins with her",
 
 movies = [three_Idiots, Baahubali_two, PK, My_Name_Is_Khan, Airlift, Wonder_Woman]
 #fresh_tomatoes.open_movies_page(movies)
-print(media.Movie.VALID_RATINGS)
+#print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
