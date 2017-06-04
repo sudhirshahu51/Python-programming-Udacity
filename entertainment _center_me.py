@@ -13,7 +13,7 @@ Baahubali_two = media.Movie("Baahubali 2: The Conclusion","English: The One with
 PK = media.Movie("PK","Indian satirical science fiction comedy film",
 	    "https://en.wikipedia.org/wiki/File:PK_poster.jpg",
 	    "https://www.youtube.com/watch?v=SOXWc32k4zA")
-My_Name_Is_Khan = media.Movie("My Name Is Khan","My Name Is Khan and I'm not a terrorist ;)",
+My_Name_Is_Khan = media.Movie("My Name Is Khan","My Name Is Khan;)",
 	    "https://en.wikipedia.org/wiki/File:My_Name_Is_Khan_film_poster.jpg",
 	    "https://www.youtube.com/watch?v=_uNDm6YfN2k")
 Airlift = media.Movie("Airlift","The world's largest air evacuation mission ever",
