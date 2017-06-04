@@ -1,5 +1,5 @@
 import fresh_tomatoes
-import media
+import media 
 three_Idiots = media.Movie("3 Idiots",
             "Highest-grossing Bollywood film of all time in overseas markets",
             "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
@@ -24,4 +24,5 @@ Wonder_Woman = media.Movie("Wonder Woman","It begins with her",
 	    "https://www.youtube.com/watch?v=1Q8fG0TtVAY")
 
 movies = [three_Idiots, Baahubali_two, PK, My_Name_Is_Khan, Airlift, Wonder_Woman]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
